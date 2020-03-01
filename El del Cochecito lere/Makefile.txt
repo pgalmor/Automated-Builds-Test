@@ -1,0 +1,2 @@
+AutomatedBuildsTest: main.c
+     gcc -o AutomatedBuildsTest main.c -I.
