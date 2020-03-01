@@ -150,9 +150,4 @@
       <Filter>Sources\Tools</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="CMakeLists.txt">
-      <Filter>Sources</Filter>
-    </Text>
-  </ItemGroup>
 </Project>
