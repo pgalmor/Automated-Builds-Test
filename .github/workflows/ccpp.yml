@@ -10,4 +10,6 @@ jobs:
     steps:
       - name: Setup C++
         uses: Trass3r/setup-cpp@v1
+      - name: CPP Evaluation
+        uses: luke142367/cpp-evaluation-action@0.0.1
 
