@@ -8,5 +8,6 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - name: run-cmake
-      uses: lukka/run-cmake@v0.10
+      - name: Setup C++
+        uses: Trass3r/setup-cpp@v1
+
